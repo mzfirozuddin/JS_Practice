@@ -1,0 +1,19 @@
+.section{
+    width: 20rem;
+    height: 20rem;
+    margin: 10rem auto;
+    background-color: rgb(86, 230, 235);
+    color: rgb(16, 13, 161);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.counter{
+    font-size: 3rem;
+}
+
+.followers{
+    font-size: 1.5rem;
+}
